@@ -1,2 +1,4 @@
-# sonic-runner
-Sonic themed infinite runner game made in JavaScript
+Sonic Themed Infinite Runner Game
+Live demo: https://mxcvele.github.io/sonic-runner/
+
+Taught by https://youtube.com/@jslegenddev
